@@ -1,4 +1,4 @@
-#version 0.1.0. basic constants/formulas included, but currently very little conversion support. all of the formulas should have SI parameters.
+#first version basic constants/formulas included, but currently very little conversion support. all of the formulas should have SI parameters.
 #liscence should also be on git
 #released under MIT liscence
 
